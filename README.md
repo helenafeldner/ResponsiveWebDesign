@@ -1,4 +1,4 @@
-Responsive Web Design Certification (Online)
+# Responsive Web Design Certification (Online)
 
 Im completing a courses on https://www.freecodecamp.org/learn/2022/responsive-web-design/ in order to get the Responsive Web Design Certification.
 
