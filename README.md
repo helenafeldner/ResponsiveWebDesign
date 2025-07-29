@@ -9,5 +9,3 @@ I’m currently completing the <a href="https://www.freecodecamp.org/learn/2022/
 - **Registration Form** – Built a form to collect user input using HTML form elements like text fields, dropdowns, and checkboxes.
 - **Certification Project 1: Survey Form** – Developed a complete, styled form to collect data from users, demonstrating an understanding of both layout and user interaction.
 
-## Preview of Certification Project 1
-<img width="1440" height="900" alt="Preview" src="https://github.com/user-attachments/assets/bbc47d8c-2a2d-49fa-9b91-2c947a5051d2" />
